@@ -1,0 +1,8 @@
+{"Employee":[
+	{ "id":"1", "Name":"Ajmal Zada", "Designation":" Manager", "Address":"Queens", "Telephone":"8457473001"},
+	{ "id":"2", "Name":" Shoaib Ahamed", "Designation":" President", "Address":"Queens", "Telephone":"8457473001"},
+	{ "id":"3", "Name":"Avtar Sing", "Designation":" Chairman", "Address":"Jersy City", "Telephone":"8457473002"},
+	{ "id":"4", "Name":" Klee Walsh", "Designation":" Accountant", "Address":"Astoria", "Telephone":"8457473003"},
+	{ "id":"5", "Name":" Jeff Walsh", "Designation":" HR", "Address":"Long Island", "Telephone":"8457473004"},
+	{ "id":"6", "Name":" Jack Fardin", "Designation":" Marketing consultant", "Address":" Texas", "Telephone":"8457473006"}
+	]}
